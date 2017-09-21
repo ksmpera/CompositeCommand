@@ -1,0 +1,42 @@
+D:\pera\Tasks\CompositeCommand\bin\Debug\CompositeCommand.exe.config
+D:\pera\Tasks\CompositeCommand\obj\Debug\CompositeCommand.Properties.Resources.resources
+D:\pera\Tasks\CompositeCommand\obj\Debug\CompositeCommand.csproj.GenerateResource.Cache
+D:\pera\Tasks\CompositeCommand\bin\Debug\CompositeCommand.exe
+D:\pera\Tasks\CompositeCommand\bin\Debug\CompositeCommand.pdb
+D:\pera\Tasks\CompositeCommand\obj\Debug\CompositeCommand.exe
+D:\pera\Tasks\CompositeCommand\obj\Debug\CompositeCommand.pdb
+D:\pera\Tasks\CompositeCommand\obj\Debug\CompositeCommand.Form1.resources
+C:\Users\Petar\Desktop\CompositeCommand\bin\Debug\CompositeCommand.exe.config
+C:\Users\Petar\Desktop\CompositeCommand\obj\Debug\CompositeCommand.exe
+C:\Users\Petar\Desktop\CompositeCommand\obj\Debug\CompositeCommand.pdb
+C:\Users\Petar\Desktop\CompositeCommand\bin\Debug\CompositeCommand.exe
+C:\Users\Petar\Desktop\CompositeCommand\bin\Debug\CompositeCommand.pdb
+C:\Users\Petar\Desktop\CompositeCommand\obj\Debug\CompositeCommand.Properties.Resources.resources
+C:\Users\Petar\Desktop\CompositeCommand\obj\Debug\CompositeCommand.csproj.GenerateResource.Cache
+C:\Users\Petar\Desktop\CompositeCommand\obj\Debug\CompositeCommand.Form1.resources
+C:\Users\Petar\Desktop\CompositeCommand\obj\Debug\CompositeCommand.csprojResolveAssemblyReference.cache
+D:\pera\Tasks\CompositeCommand\obj\Debug\CompositeCommand.MicroCommandForm.resources
+D:\pera\Tasks\CompositeCommand\obj\Debug\CompositeCommand.MacroCommandForm.resources
+D:\pera\Tasks\CompositeCommand\obj\Debug\CompositeCommand.csprojResolveAssemblyReference.cache
+C:\Users\Petar\Documents\C# 27.03.17\pera\SQL\CompositeCommand\bin\Debug\CompositeCommand.exe.config
+C:\Users\Petar\Documents\C# 27.03.17\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.exe
+C:\Users\Petar\Documents\C# 27.03.17\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.pdb
+C:\Users\Petar\Documents\C# 27.03.17\pera\SQL\CompositeCommand\bin\Debug\CompositeCommand.exe
+C:\Users\Petar\Documents\C# 27.03.17\pera\SQL\CompositeCommand\bin\Debug\CompositeCommand.pdb
+C:\Users\Petar\Documents\C# 27.03.17\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.csprojResolveAssemblyReference.cache
+C:\Users\Petar\Documents\C# 27.03.17\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.MacroCommandForm.resources
+C:\Users\Petar\Documents\C# 27.03.17\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.MicroCommandForm.resources
+C:\Users\Petar\Documents\C# 27.03.17\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.Form1.resources
+C:\Users\Petar\Documents\C# 27.03.17\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.Properties.Resources.resources
+C:\Users\Petar\Documents\C# 27.03.17\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.csproj.GenerateResource.Cache
+D:\pera\SQL\CompositeCommand\bin\Debug\CompositeCommand.exe.config
+D:\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.exe
+D:\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.pdb
+D:\pera\SQL\CompositeCommand\bin\Debug\CompositeCommand.exe
+D:\pera\SQL\CompositeCommand\bin\Debug\CompositeCommand.pdb
+D:\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.MacroCommandForm.resources
+D:\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.MicroCommandForm.resources
+D:\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.Form1.resources
+D:\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.Properties.Resources.resources
+D:\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.csproj.GenerateResource.Cache
+D:\pera\SQL\CompositeCommand\obj\Debug\CompositeCommand.csprojResolveAssemblyReference.cache
